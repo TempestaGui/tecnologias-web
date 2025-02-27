@@ -3,3 +3,18 @@ header{
     color: black;
     height: 50px;
 }
+plano-de-fundo {
+    background-color: #6b0808;
+    background-image: url("papel-de-parde-anuime.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    }
+
+borda {
+        border-width: 2px;
+        border-style: dashed;
+        border-color: #FFA07A;
+        border-radius: 10px;
+        }
+
